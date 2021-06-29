@@ -18,6 +18,7 @@ class HomePage extends StatelessWidget {
                 "My name is $name my age is $age and the value of pi is $pi"),
           ),
         ),
+        drawer: Drawer(),
     );
   }
 }
